@@ -6,7 +6,13 @@
     "publication_date": "2026-03-21",
     "topic": "Australia's energy vulnerability and the Iran war",
     "editorial_model": "claude-sonnet-4-6",
-    "word_count": 4123
+    "word_count": 4123,
+    "hero_image": {
+      "filename": "hero_image.jpg",
+      "path": "editions/001/assets/hero_image.jpg",
+      "alt": "A kangaroo in an Oil & Gas high-visibility vest surveys refineries with renewables in the background — the dual-position paradox illustrated",
+      "caption": "Australia's energy paradox: simultaneously an LNG exporter and a fuel importer with 24 days of diesel."
+    }
   },
   "title_block": {
     "title": "The Hormuz Paradox",
