@@ -1,12 +1,12 @@
 {
   "meta": {
     "assessment_edition": 1,
-    "topic": "Iran conflict — global oil supply — Australian energy vulnerability",
+    "topic": "Iran conflict \u2014 global oil supply \u2014 Australian energy vulnerability",
     "compiled_date": "2026-03-20",
     "source_ledger_version": "27 sources, 209 claims (updated Phase 2 gap-fill research)",
-    "phase_2_gap_fill_update": "Added SRC-027 (Gap-Fill Research) with 10 new data_points covering import sources, historical comparisons, crude type corroboration, and reserve breakdown gaps. Revised Scenario A framing. Corroborated SRC-003 ZeroHedge claims."
+    "phase_2_gap_fill_update": "Added SRC-027 (Gap-Fill Research) with 10 new data_points covering import sources, historical comparisons, crude type corroboration, and reserve breakdown gaps. Revised Scenario A framing. Corroborated SRC-003 ZeroHedge claims.",
+    "total_claims": 214
   },
-
   "data_points": [
     {
       "fact": "Approximately 20 million barrels per day of oil normally flow through the Strait of Hormuz, representing about 20% of the world's oil supply.",
@@ -163,7 +163,7 @@
       "category": "reserves"
     },
     {
-      "fact": "Australia holds only 68 IEA-counted days of reserve, but actual consumption cover is only 32 days — the 21-day gap consists of fuel in transit on foreign-flagged vessels with no guarantee of delivery in a crisis.",
+      "fact": "Australia holds only 68 IEA-counted days of reserve, but actual consumption cover is only 32 days \u2014 the 21-day gap consists of fuel in transit on foreign-flagged vessels with no guarantee of delivery in a crisis.",
       "source": "Australia Institute",
       "source_id": "SRC-021-C02",
       "confidence": "verified",
@@ -268,7 +268,7 @@
       "category": "refining"
     },
     {
-      "fact": "In 1973 Arab Oil Embargo, Australia operated 6-8 domestic refineries with ~400,000-500,000 bpd capacity and only ~30-40% import dependency; 2026 Australia operates 2 refineries with ~270,000 bpd capacity and 91% import dependency — structural vulnerability has worsened by ~250% relative to 1973.",
+      "fact": "In 1973 Arab Oil Embargo, Australia operated 6-8 domestic refineries with ~400,000-500,000 bpd capacity and only ~30-40% import dependency; 2026 Australia operates 2 refineries with ~270,000 bpd capacity and 91% import dependency \u2014 structural vulnerability has worsened by ~250% relative to 1973.",
       "source": "Gap-Fill Research / Historical Comparison",
       "source_id": "SRC-027-C05",
       "confidence": "verified",
@@ -289,21 +289,21 @@
       "category": "refining"
     },
     {
-      "fact": "WTI (West Texas Intermediate) is light sweet crude (API 36-40°, sulfur 0.5-0.7%); Dubai/Oman/Saudi crude are medium sour (API 30-34°, sulfur 1.5-3.0%); the crude type mismatch means US SPR releases of light sweet crude cannot rapidly replace Asian refinery medium sour crude feedstock at scale.",
+      "fact": "WTI (West Texas Intermediate) is light sweet crude (API 36-40\u00b0, sulfur 0.5-0.7%); Dubai/Oman/Saudi crude are medium sour (API 30-34\u00b0, sulfur 1.5-3.0%); the crude type mismatch means US SPR releases of light sweet crude cannot rapidly replace Asian refinery medium sour crude feedstock at scale.",
       "source": "Gap-Fill Research / Crude Type Corroboration (Confirmed via Technical Analysis)",
       "source_id": "SRC-027-C08",
       "confidence": "verified",
       "category": "refining"
     },
     {
-      "fact": "ZeroHedge/wholesale trader claim (SRC-003-C05, SRC-003-C06) regarding US SPR incompatibility with Asian refineries is PARTIALLY CORROBORATED: Asian refineries ARE sour-optimized, WTI IS light sweet, switching IS difficult; however, 'useless' is overstated — US SPR light sweet crude can supplement 10-20% of refinery feedstock in blend, but cannot replace bulk of medium sour requirement.",
+      "fact": "ZeroHedge/wholesale trader claim (SRC-003-C05, SRC-003-C06) regarding US SPR incompatibility with Asian refineries is PARTIALLY CORROBORATED: Asian refineries ARE sour-optimized, WTI IS light sweet, switching IS difficult; however, 'useless' is overstated \u2014 US SPR light sweet crude can supplement 10-20% of refinery feedstock in blend, but cannot replace bulk of medium sour requirement.",
       "source": "Gap-Fill Research / Crude Type Corroboration (SRC-027 links to SRC-003)",
       "source_id": "SRC-027-C09",
       "confidence": "verified",
       "category": "refining"
     },
     {
-      "fact": "Australia's strategic fuel reserves are reported as 30-36 days aggregate; however, no official breakdown exists by product type (diesel vs. petrol vs. jet fuel) — DCCEEW and IEA data sources needed to confirm whether diesel and jet fuel reserves meet 30-36 day standard or fall short.",
+      "fact": "Australia's strategic fuel reserves are reported as 30-36 days aggregate; however, no official breakdown exists by product type (diesel vs. petrol vs. jet fuel) \u2014 DCCEEW and IEA data sources needed to confirm whether diesel and jet fuel reserves meet 30-36 day standard or fall short.",
       "source": "Gap-Fill Research / Reserve Breakdown Gap",
       "source_id": "SRC-027-C10",
       "confidence": "insufficient",
@@ -427,9 +427,43 @@
       "source_id": "SRC-003-C13",
       "confidence": "reported",
       "category": "supply"
+    },
+    {
+      "fact": "Australia had only 24 days of diesel stocks as of July 2025 \u2014 below the aggregate 30-36 day figure, confirming diesel as the binding constraint",
+      "source": "ABC News / John Blackburn (former RAAF Deputy Chief), December 2025",
+      "source_id": "SRC-ABC-2025-C01",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "Australia last met its IEA 90-day oil stockholding obligation in 2011 \u2014 non-compliant for 14+ years",
+      "source": "ABC News / John Blackburn, December 2025; IEA data",
+      "source_id": "SRC-ABC-2025-C02",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "Viva Energy Geelong refinery capacity: ~120,000 bpd (not ~140,000 as earlier estimated); government Fuel Security Service Payment has provided ~$40M to Viva Energy to remain viable",
+      "source": "ABC News, December 2025",
+      "source_id": "SRC-ABC-2025-C03",
+      "confidence": "verified",
+      "category": "refining"
+    },
+    {
+      "fact": "Government built 330 million litres of new diesel storage capacity under BADSP program ($104M), completed 2025 \u2014 including 90M litres at Viva Geelong (~1 week of Victoria's diesel demand)",
+      "source": "ABC News, December 2025",
+      "source_id": "SRC-ABC-2025-C04",
+      "confidence": "verified",
+      "category": "policy"
+    },
+    {
+      "fact": "Only 20% of Australia's liquid fuel demand is refined domestically (ABC News Dec 2025); remaining two refineries surviving partly on government subsidies and facing talks to extend support beyond 2027",
+      "source": "ABC News, December 2025",
+      "source_id": "SRC-ABC-2025-C05",
+      "confidence": "verified",
+      "category": "refining"
     }
   ],
-
   "expert_assessments": [
     {
       "speaker": "David Leaney",
@@ -471,7 +505,7 @@
     {
       "speaker": "Darren Lim",
       "affiliation": "ANU Crawford School",
-      "position": "Despite tactical military success (2/3 of Iran's missile launchers destroyed), probability of converting tactical gains into durable strategic outcomes is low; non-proliferation incentive structure has been inverted — Iran is attacked precisely because it did NOT have nuclear weapons; Iran could acquire nuclear weapons within 18 months if it pursues them.",
+      "position": "Despite tactical military success (2/3 of Iran's missile launchers destroyed), probability of converting tactical gains into durable strategic outcomes is low; non-proliferation incentive structure has been inverted \u2014 Iran is attacked precisely because it did NOT have nuclear weapons; Iran could acquire nuclear weapons within 18 months if it pursues them.",
       "source": "Australia in the World Podcast",
       "source_id": "SRC-010-C02, SRC-010-C09, SRC-010-C10"
     },
@@ -541,7 +575,7 @@
     {
       "speaker": "Shell Pearl GTL (reference)",
       "affiliation": "LNG/GTL technology",
-      "position": "Converts 1.6 billion cubic feet per day of natural gas into 140,000 barrels per day of fuel at $33 billion cost and 4-year build timeline — providing a costed, specific solution pathway for Australian fuel independence.",
+      "position": "Converts 1.6 billion cubic feet per day of natural gas into 140,000 barrels per day of fuel at $33 billion cost and 4-year build timeline \u2014 providing a costed, specific solution pathway for Australian fuel independence.",
       "source": "Lowy Institute",
       "source_id": "SRC-009-C12, SRC-009-C13"
     },
@@ -560,17 +594,16 @@
       "source_id": "SRC-005-C11"
     }
   ],
-
   "historical_parallels": [
     {
       "event": "1973 Arab Oil Embargo (Yom Kippur War)",
       "date": "October 1973 - March 1974",
       "trigger": "Egypt and Syria attacked Israel; OAPEC imposed embargo in response",
-      "price_impact": "Oil prices increased from $3.00/bbl (Sept 1973) to $11.65/bbl (Dec 1973) — ~290-300% increase",
+      "price_impact": "Oil prices increased from $3.00/bbl (Sept 1973) to $11.65/bbl (Dec 1973) \u2014 ~290-300% increase",
       "duration": "6 months embargo; supply restored following political negotiation",
       "key_facts": [
         "OPEC controlled the embargo decision and could lift it",
-        "No physical infrastructure destroyed — supply was withheld by policy decision",
+        "No physical infrastructure destroyed \u2014 supply was withheld by policy decision",
         "Triggered steepest economic contraction since Great Depression and stagflation",
         "US FTC estimated 500,000 job losses and $10-20 billion GNP loss"
       ],
@@ -583,7 +616,7 @@
       "event": "1979 Iranian Revolution Oil Shock",
       "date": "February 1979 - 1986 (recovery period)",
       "trigger": "Shah's overthrow in Iran; Iran-Iraq War (1980-88) followed",
-      "price_impact": "Oil prices increased from $15.85/bbl (April 1979) to $39.50/bbl (Dec 1979) — ~150% increase; reached highest real oil price until March 3, 2008",
+      "price_impact": "Oil prices increased from $15.85/bbl (April 1979) to $39.50/bbl (Dec 1979) \u2014 ~150% increase; reached highest real oil price until March 3, 2008",
       "duration": "1979 shock lasted 12+ months; secondary shocks from Iran-Iraq War throughout 1980s; OPEC market share collapse took years to resolve",
       "key_facts": [
         "Iran's oil production fell from 6M bpd to 1.5M bpd (75% reduction)",
@@ -600,7 +633,7 @@
       "event": "1990 Gulf War (Iraq invasion of Kuwait)",
       "date": "August 1990 - March 1991",
       "trigger": "Iraq invaded Kuwait on August 2, 1990; rapid military response by US-led coalition",
-      "price_impact": "Oil prices increased from $17/bbl (July 1990) to $46/bbl (October 1990 peak) — ~170% increase",
+      "price_impact": "Oil prices increased from $17/bbl (July 1990) to $46/bbl (October 1990 peak) \u2014 ~170% increase",
       "duration": "9 months crisis; shortest duration of the four major post-WW2 oil shocks due to rapid military resolution",
       "key_facts": [
         "Crisis was less severe than 1973 or 1979 due to its shorter duration and rapid military resolution",
@@ -617,7 +650,7 @@
       "event": "2020 COVID-19 Oil Crash",
       "date": "March - April 2020 (acute phase); recovery 2020-2021",
       "trigger": "COVID-19 demand destruction and OPEC+ alliance collapse on March 6, 2020",
-      "price_impact": "Oil prices fell from ~$60/bbl to 17-year low of $20.48 WTI (March 18, 2020); WTI futures briefly hit -$37/bbl (April 20, 2020) — first negative price in history",
+      "price_impact": "Oil prices fell from ~$60/bbl to 17-year low of $20.48 WTI (March 18, 2020); WTI futures briefly hit -$37/bbl (April 20, 2020) \u2014 first negative price in history",
       "duration": "Acute crash: 6-8 weeks; full recovery to $60+: 18+ months (by mid-2021)",
       "key_facts": [
         "Caused US stock market crash (Dow -7.8% on Black Monday March 9)",
@@ -631,7 +664,6 @@
       "source": "Ironclad historical research"
     }
   ],
-
   "policy_gaps": [
     {
       "gap": "IEA 90-day stockholding standard non-compliance (decade-long)",
@@ -642,14 +674,14 @@
     },
     {
       "gap": "Refinery closure decisions made under 'stable global supply' assumption",
-      "evidence": "Australia closed 6 of 8 refineries (2010-2021) based on assumption that Asian import supply was reliable and cheaper than domestic production",
+      "evidence": "Australia closed 6 of 8 refineries (2010-2021) based on assumption that Asian import supply was reliable and cheaper than domestic production CORRECTED REFINERY TIMELINE: 8 refineries existed mid-2000s; 6 closures: Mobil Altona (Melbourne, ~2003), Shell Clyde (Sydney, 2012), Caltex Kurnell (Sydney, 2014), BP Westernport/Kwinana (WA, 2014), BP Bulwer Island (Brisbane, 2015), plus one additional closure. Remaining: Ampol Lytton (~130,000 bpd) and Viva Energy Geelong (~120,000 bpd). NOTE: Viva Geelong is the renamed Shell Geelong \u2014 still operating.",
       "consequence": "Domestic refining capacity at 230,000 bpd (23% of demand); cannot surge production during crisis; dependent on Asian refineries in crisis zone; refineries remaining are petrol-heavy, not diesel/jet fuel-heavy",
       "recommended_action": "Reverse closure of key refineries or support investment in new domestic capacity; prioritize diesel and jet fuel refining over petrol; support capital investment in plants capable of processing Australian crude + imported condensate",
       "source_id": "SRC-019-C01, SRC-021-C03"
     },
     {
       "gap": "Wrong product mix: refineries configured for petrol, not diesel/jet fuel",
-      "evidence": "Remaining Australian refineries are petrol-heavy; but during supply crisis, diesel (transport, mining, agriculture) and jet fuel (aviation) face worst shortages and highest prices",
+      "evidence": "Remaining Australian refineries are petrol-heavy; but during supply crisis, diesel (transport, mining, agriculture) and jet fuel (aviation) face worst shortages and highest prices CORRECTED REFINERY TIMELINE: 8 refineries existed mid-2000s; 6 closures: Mobil Altona (Melbourne, ~2003), Shell Clyde (Sydney, 2012), Caltex Kurnell (Sydney, 2014), BP Westernport/Kwinana (WA, 2014), BP Bulwer Island (Brisbane, 2015), plus one additional closure. Remaining: Ampol Lytton (~130,000 bpd) and Viva Energy Geelong (~120,000 bpd). NOTE: Viva Geelong is the renamed Shell Geelong \u2014 still operating.",
       "consequence": "Australia can only produce 23% of demand, and that 23% is the wrong fuel type for crisis mitigation; strategic reserves and domestic production do not address the diesel/jet fuel shortage",
       "recommended_action": "Reorient refinery investment toward diesel and aviation fuel; establish strategic reserve composition that matches actual demand (heavy weighting to diesel, secondary to jet fuel, tertiary to petrol)",
       "source_id": "SRC-021-C04, SRC-003-C11"
@@ -690,10 +722,9 @@
       "source_id": "SRC-003-C03, SRC-008-C08"
     }
   ],
-
   "scenario_branches": [
     {
-      "name": "Scenario A: Near-term Resolution (2-3 months) — LOW PROBABILITY GIVEN EVIDENCE",
+      "name": "Scenario A: Near-term Resolution (2-3 months) \u2014 LOW PROBABILITY GIVEN EVIDENCE",
       "framing_note": "REVISED per Gap-Fill Research (Phase 2): Evidence base argues AGAINST this scenario. Iranian leadership has been systematically decapitated. No diplomatic off-ramp is visible. Strait of Hormuz is mined (4,000-6,000 mines). South Pars infrastructure is destroyed (irreversible, 10+ year recovery). Ras Laffan is destroyed (irreversible, 10+ year recovery). Israel struck unilaterally without US knowledge. US coordination with Israel has broken down. Iran's non-proliferation incentive structure has been inverted (Iran now has 18-month path to nuclear weapons, making deterrence impossible absent regime survival). Assessment should acknowledge Scenario A as the BEST CASE, not the expected case. Low probability = <10% within next 6 months.",
       "trigger_condition": "Cease-fire agreement reached within 2-3 months; Hormuz closure lifted; mine-clearing operations begin; shipping resumes; sanctions relief for Iran negotiated as part of agreement; HOWEVER, current evidence suggests this trigger is unlikely due to Iranian leadership decapitation, escalation of Israeli-Iran direct conflict, and absence of diplomatic off-ramps.",
       "oil_price_range": "Oman FOB $140-160/bbl (decline from $167 as physical fears ease but remain elevated); WTI $85-95/bbl (US shielding via remaining SPR); global benchmark Brent $100-110/bbl",
@@ -708,8 +739,10 @@
         "Brent/WTI spread compression back below 10% (CURRENT: 15% premium, widest in 11+ years)",
         "US SPR drawdown halts (no further releases needed) (CURRENT: Draws continuing; 41% depletion trajectory)",
         "NEW INDICATOR: Iranian government announces ceasefire negotiations (CURRENT: No such signal)",
-        "NEW INDICATOR: Israel-US coordination restored (CURRENT: Broken — Trump denies knowledge of South Pars strike)"
-      ]
+        "NEW INDICATOR: Israel-US coordination restored (CURRENT: Broken \u2014 Trump denies knowledge of South Pars strike)"
+      ],
+      "probability_assessment": "LOW (<15%) \u2014 evidence argues strongly against: Iranian leadership decapitated, no surviving diplomatic interlocutor, 4,000-6,000 mines in Strait, South Pars/Ras Laffan infrastructure destroyed for a decade, non-proliferation incentive to persist. This is the best case, not the expected case. Assessment should state this explicitly.",
+      "analyst_note": "The paper should not present this scenario as the default or most likely outcome. Honest analysis requires acknowledging the evidence base points toward Scenarios B or C."
     },
     {
       "name": "Scenario B: Prolonged War (3-6 months + SPR exhaustion)",
@@ -753,7 +786,6 @@
       ]
     }
   ],
-
   "structural_differences_from_history": [
     {
       "factor": "US shale independence creates three-tier price structure (never happened before)",
@@ -765,12 +797,12 @@
       "factor": "Physical infrastructure destroyed, not just supply restricted (South Pars/Ras Laffan vs. embargo)",
       "historical_baseline": "1973 embargo: OPEC imposed supply restriction by policy decision; supply could be restored by reversing the policy decision. 1979 Iranian Revolution: Iran's production was offline due to political upheaval but fields could theoretically be brought back online with restored government. No physical facilities were destroyed.",
       "current_reality": "2026: Israel struck South Pars gas field (Iran side); Iran retaliated by striking Ras Laffan LNG facility (Qatar side). Both are physical infrastructure destruction on both sides of a shared reservoir. Ras Laffan cost $70 billion to build and will take at least a decade to recover. South Pars production infrastructure is similarly destroyed. The world's largest natural gas field (90% untapped) will have largely inaccessible reserves for years, not months.",
-      "significance": "This creates two distinct recovery timelines: Oil (Hormuz closure) recovers in 2-3 months if war ends; Gas (South Pars/Ras Laffan) requires decade-long rebuild. Previous crises had a single recovery timeline. This bifurcation means global energy markets face a decade-long LNG supply deficit regardless of when the oil disruption ends. Australia's LNG exporters face multi-year windfall (Qatar offline). But Australia's fuel import crisis (oil) ends in 2-3 months while gas crisis extends indefinitely — Australia faces asymmetric commodity shocks with opposite time horizons."
+      "significance": "This creates two distinct recovery timelines: Oil (Hormuz closure) recovers in 2-3 months if war ends; Gas (South Pars/Ras Laffan) requires decade-long rebuild. Previous crises had a single recovery timeline. This bifurcation means global energy markets face a decade-long LNG supply deficit regardless of when the oil disruption ends. Australia's LNG exporters face multi-year windfall (Qatar offline). But Australia's fuel import crisis (oil) ends in 2-3 months while gas crisis extends indefinitely \u2014 Australia faces asymmetric commodity shocks with opposite time horizons."
     },
     {
       "factor": "Non-proliferation incentive structure inverted",
       "historical_baseline": "Since the Nuclear Non-Proliferation Treaty (1968), the strategic logic has been: countries WITH nuclear weapons are constrained by mutually assured destruction; countries WITHOUT nuclear weapons face stronger pressure not to acquire them. The system created (weak) incentives against proliferation.",
-      "current_reality": "In 2026, Iran is attacked precisely because it does NOT have nuclear weapons. Israel and US coordinate (to the extent they do) on the assumption that Iran is defenseless without nuclear capability. The logical Iranian response is: 'We should have pursued nuclear weapons.' Iran can acquire nuclear weapons within 18 months if it pursues them now (Lim). The war has inverted the non-proliferation incentive structure — demonstrated nuclear weapons are the only credible deterrent to air strikes.",
+      "current_reality": "In 2026, Iran is attacked precisely because it does NOT have nuclear weapons. Israel and US coordinate (to the extent they do) on the assumption that Iran is defenseless without nuclear capability. The logical Iranian response is: 'We should have pursued nuclear weapons.' Iran can acquire nuclear weapons within 18 months if it pursues them now (Lim). The war has inverted the non-proliferation incentive structure \u2014 demonstrated nuclear weapons are the only credible deterrent to air strikes.",
       "significance": "This opens a proliferation cascade: if Iran pursues nuclear weapons, Saudi Arabia and UAE will accelerate programs. Turkey, Egypt, and other regional actors will reconsider. This transforms the regional strategic landscape from a single (covert) nuclear power (Israel) to a multi-nuclear Middle East within 3-5 years. The global non-proliferation regime, already under stress from North Korea and others, collapses further. This is a structural shift in global security architecture, not just a regional one."
     },
     {
@@ -788,7 +820,7 @@
     {
       "factor": "Climate transition has already begun (more substitution capacity than 1973/1979)",
       "historical_baseline": "In 1973 and 1979, there was no alternative to oil for transport and electricity. Oil was fully substitutable across all uses. The only response was demand destruction or rationing.",
-      "current_reality": "In 2026, renewable energy infrastructure already exists. Electric vehicles, solar power, wind power, nuclear plants all provide alternatives to fossil fuels that didn't exist in 1973/1979. Balaji Srinivasan notes that climate advocates were right on the dependency problem even if wrong on timelines — and now the energy transition has a forcing function. The transition is accelerating across Europe, US, China, Australia due to war-driven cost structures.",
+      "current_reality": "In 2026, renewable energy infrastructure already exists. Electric vehicles, solar power, wind power, nuclear plants all provide alternatives to fossil fuels that didn't exist in 1973/1979. Balaji Srinivasan notes that climate advocates were right on the dependency problem even if wrong on timelines \u2014 and now the energy transition has a forcing function. The transition is accelerating across Europe, US, China, Australia due to war-driven cost structures.",
       "significance": "This means the 2026 crisis triggers faster structural economic change than previous crises. Instead of rationing and suffering through for 2-3 years (as 1973-76), countries can shift to alternatives within 3-5 years. This reduces the 'crisis depth' relative to 1973/1979 but creates massive capital reallocation pressure. Industrial policy and government support for energy transition accelerates. Stranded fossil fuel assets and workers face faster transition pressure. This is less economically damaging than 1973 (structural alternatives exist) but more socially disruptive (faster change)."
     },
     {
@@ -798,7 +830,6 @@
       "significance": "Australia in 2026 faces a 1973-scale crisis but with far lower resilience. Previous crisis response (domestic refining surge, import diversification via multiple suppliers) is not available now. Australia's policy options are narrower: rationing, severe demand destruction, or rapid policy shift (GTL plants, LNG diversion, emergency refinery investment). This amplifies the policy constraint and urgency relative to 1973. Australia cannot 'wait out' this crisis as comfortably as it did in 1973 because the cushion of domestic capacity has eroded."
     }
   ],
-
   "australia_dual_position": {
     "loser_dimensions": [
       "Liquid fuel imports (petrol, diesel, jet fuel): Australia depends on 91% imports; Hormuz closure and Asian refinery supply disruption means fuel prices spike from $1.50-1.60/L to $2.30+/L and availability tightens",
