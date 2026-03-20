@@ -1,0 +1,746 @@
+{
+  "meta": {
+    "assessment_edition": 1,
+    "topic": "Iran conflict — global oil supply — Australian energy vulnerability",
+    "compiled_date": "2026-03-20",
+    "source_ledger_version": "26 sources, 199 claims"
+  },
+
+  "data_points": [
+    {
+      "fact": "Approximately 20 million barrels per day of oil normally flow through the Strait of Hormuz, representing about 20% of the world's oil supply.",
+      "source": "ABC News Daily (Leaney)",
+      "source_id": "SRC-001-C02",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "De facto closure of Strait of Hormuz occurred as of March 2, 2026, with shipping activity dropping sharply Feb 28 - March 12.",
+      "source": "Current Situation Report",
+      "source_id": "SRC-012-C03",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "Approximately 18% of global crude oil supply is offline due to the Strait of Hormuz closure.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C09",
+      "confidence": "reported",
+      "category": "supply"
+    },
+    {
+      "fact": "Oil is being rerouted through the East-West Pipeline (Petroline) across Saudi Arabia to the Red Sea, which can only handle about 4 million barrels per day (20% of normal Hormuz volume).",
+      "source": "ABC News Daily (Leaney)",
+      "source_id": "SRC-001-C03",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "Habshan-Fujairah Pipeline has a capacity of approximately 2 million barrels per day.",
+      "source": "Current Situation Report",
+      "source_id": "SRC-012-C12",
+      "confidence": "reported",
+      "category": "supply"
+    },
+    {
+      "fact": "Total alternative pipeline capacity to bypass Hormuz is approximately 7-8 million barrels per day versus 20 million normal Hormuz flow.",
+      "source": "Current Situation Report",
+      "source_id": "SRC-012-C13",
+      "confidence": "reported",
+      "category": "supply"
+    },
+    {
+      "fact": "Ras Laffan LNG facility produced approximately 20% of global LNG supply.",
+      "source": "The Kobeissi Letter / Arnaud Bertrand",
+      "source_id": "SRC-004-C12",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "Ras Laffan cost $70 billion to build as of 2011.",
+      "source": "Arnaud Bertrand (EnergyIntel)",
+      "source_id": "SRC-005-C04",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "South Pars/North Dome field covers approximately 9,700 square kilometres, roughly the size of Qatar itself.",
+      "source": "Arnaud Bertrand",
+      "source_id": "SRC-005-C06",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "South Pars/North Dome holds approximately 40% of the combined recoverable reserves of the 25 largest natural gas fields in the world.",
+      "source": "Arnaud Bertrand",
+      "source_id": "SRC-005-C07",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "South Pars/North Dome is only at 10% depletion, meaning 90% of the gas is still in the ground.",
+      "source": "Arnaud Bertrand",
+      "source_id": "SRC-005-C09",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "Israel struck Iran's South Pars gas field; Iran retaliated by striking Qatar's Ras Laffan LNG facility.",
+      "source": "The Kobeissi Letter / QatarEnergy Statement",
+      "source_id": "SRC-004-C11",
+      "confidence": "verified",
+      "category": "military"
+    },
+    {
+      "fact": "US oil prices (WTI) are trading at $97 per barrel, up 76% since December 2025.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C01",
+      "confidence": "verified",
+      "category": "pricing"
+    },
+    {
+      "fact": "Physical oil prices in Oman (FOB) are at a record $167 per barrel, representing a 72% premium over WTI.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C02",
+      "confidence": "verified",
+      "category": "pricing"
+    },
+    {
+      "fact": "Dubai crude is at $138 per barrel, serving as a direct input benchmark for Asian refineries.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C08",
+      "confidence": "verified",
+      "category": "pricing"
+    },
+    {
+      "fact": "Brent crude is trading at approximately $112-113 per barrel.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C04",
+      "confidence": "verified",
+      "category": "pricing"
+    },
+    {
+      "fact": "Brent/WTI spread is at its widest margin in 11+ years at approximately 15% premium.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C06",
+      "confidence": "reported",
+      "category": "pricing"
+    },
+    {
+      "fact": "European natural gas prices (TTF) have surged 160% (or 116-147% depending on measurement) following the South Pars and Ras Laffan strikes.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C13",
+      "confidence": "verified",
+      "category": "pricing"
+    },
+    {
+      "fact": "Australian petrol prices have risen from approximately 150-160 cents per litre to 230 cents per litre, an increase of 70 cents per litre within a few weeks.",
+      "source": "ABC News Daily (Byrne)",
+      "source_id": "SRC-002-C01",
+      "confidence": "verified",
+      "category": "pricing"
+    },
+    {
+      "fact": "Filling a 65-litre tank costs approximately 40 dollars more now than it did two to three weeks ago.",
+      "source": "ABC News Daily (Byrne)",
+      "source_id": "SRC-002-C02",
+      "confidence": "estimated",
+      "category": "pricing"
+    },
+    {
+      "fact": "Australia has approximately 30 to 36 days worth of fuel reserves at any given time.",
+      "source": "ABC News Daily (Leaney)",
+      "source_id": "SRC-001-C04",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "Australia holds approximately 52 days of fuel reserves (September 2025 measure), still below the IEA 90-day standard.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C04",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "Australia holds only 68 IEA-counted days of reserve, but actual consumption cover is only 32 days — the 21-day gap consists of fuel in transit on foreign-flagged vessels with no guarantee of delivery in a crisis.",
+      "source": "Australia Institute",
+      "source_id": "SRC-021-C02",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "Australia is the only IEA member that has failed to meet the 90-day stockholding standard for years.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C05",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "US strategic petroleum reserve is set to decline 41% to their lowest level since the 1980s, representing approximately 34% of total capacity.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C16",
+      "confidence": "reported",
+      "category": "reserves"
+    },
+    {
+      "fact": "The US announced a release of 172 million barrels from its Strategic Petroleum Reserve.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C14",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "IEA countries coordinated a total strategic reserves release of approximately 400 million barrels.",
+      "source": "The Kobeissi Letter",
+      "source_id": "SRC-004-C15",
+      "confidence": "verified",
+      "category": "reserves"
+    },
+    {
+      "fact": "Australia has only two refineries that process fuel: Ampol Lytton and Viva Energy Geelong.",
+      "source": "ABC News Daily (Leaney)",
+      "source_id": "SRC-001-C08",
+      "confidence": "verified",
+      "category": "refining"
+    },
+    {
+      "fact": "Australia's two remaining refineries have a combined capacity of approximately 230,000 barrels per day.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C02",
+      "confidence": "verified",
+      "category": "refining"
+    },
+    {
+      "fact": "Domestic refining meets only 23% of Australia's fuel requirements.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C03",
+      "confidence": "verified",
+      "category": "refining"
+    },
+    {
+      "fact": "Approximately 70% of Australia's fuel is imported as refined products, mainly from Asia.",
+      "source": "Wholesale Fuel Trader Account",
+      "source_id": "SRC-003-C01",
+      "confidence": "verified",
+      "category": "refining"
+    },
+    {
+      "fact": "In FY2021, 91% of all fuel consumed in Australia was imported, including 68% imported as refined product.",
+      "source": "Australia Institute",
+      "source_id": "SRC-021-C01",
+      "confidence": "verified",
+      "category": "refining"
+    },
+    {
+      "fact": "Singapore refineries supply approximately 40% of Australian refined product imports.",
+      "source": "Current Situation Report",
+      "source_id": "SRC-012-C08",
+      "confidence": "estimated",
+      "category": "refining"
+    },
+    {
+      "fact": "Australia's peacetime fuel consumption is approximately 1 million barrels per day.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C01",
+      "confidence": "verified",
+      "category": "supply"
+    },
+    {
+      "fact": "Liquid fuel powers 98% of Australia's transport sector, including food distribution networks.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C06",
+      "confidence": "reported",
+      "category": "policy"
+    },
+    {
+      "fact": "Liquid fuel powers 83% of coal mining operations, which sustain much of Australia's energy grid.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C07",
+      "confidence": "reported",
+      "category": "policy"
+    },
+    {
+      "fact": "Liquid fuel powers essentially all Australian Defence Force operations.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C08",
+      "confidence": "reported",
+      "category": "military"
+    },
+    {
+      "fact": "Australian domestic crude oil reserves are forecast to run out by 2030.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C09",
+      "confidence": "reported",
+      "category": "reserves"
+    },
+    {
+      "fact": "Iran has laid an estimated 4,000 to 6,000 mines in the Strait of Hormuz.",
+      "source": "ABC News Daily (Leaney)",
+      "source_id": "SRC-001-C12",
+      "confidence": "estimated",
+      "category": "military"
+    },
+    {
+      "fact": "Approximately 10 oil tankers have been attacked and destroyed by Iran in the current conflict.",
+      "source": "ABC News Daily (Leaney)",
+      "source_id": "SRC-001-C13",
+      "confidence": "reported",
+      "category": "military"
+    },
+    {
+      "fact": "Iran's senior security leadership has been systematically eliminated, with no diplomatic off-ramp visible.",
+      "source": "Ironclad Daily Brief",
+      "source_id": "SRC-013-C02",
+      "confidence": "reported",
+      "category": "military"
+    },
+    {
+      "fact": "Two-thirds of Iran's missile launchers have been destroyed; Iran's navy is sunk; Iranian leadership decapitated.",
+      "source": "Australia in the World Podcast (Lim)",
+      "source_id": "SRC-010-C01",
+      "confidence": "reported",
+      "category": "military"
+    },
+    {
+      "fact": "Minister Chris Bowen released about six days worth of petrol and five days worth of diesel from strategic reserves.",
+      "source": "ABC News Daily (Leaney)",
+      "source_id": "SRC-001-C10",
+      "confidence": "reported",
+      "category": "policy"
+    },
+    {
+      "fact": "The ACCC held emergency meetings with major fuel suppliers including Ampol, Chevron, BP, Mobil, United Petroleum, and 7-Eleven.",
+      "source": "ABC News Daily (Byrne)",
+      "source_id": "SRC-002-C07",
+      "confidence": "verified",
+      "category": "policy"
+    },
+    {
+      "fact": "Ship insurance costs for Strait of Hormuz transits have increased 4-6 times from previous rates.",
+      "source": "Current Situation Report",
+      "source_id": "SRC-012-C16",
+      "confidence": "reported",
+      "category": "financial"
+    },
+    {
+      "fact": "Australian inflation is heading to mid-high 4% levels, with rate hikes priced in by markets.",
+      "source": "Ironclad Daily Brief",
+      "source_id": "SRC-013-C03",
+      "confidence": "reported",
+      "category": "financial"
+    },
+    {
+      "fact": "Asia is reverting to coal as LNG prices have doubled following South Pars and Ras Laffan strikes.",
+      "source": "Ironclad Daily Brief",
+      "source_id": "SRC-013-C04",
+      "confidence": "reported",
+      "category": "supply"
+    },
+    {
+      "fact": "Approximately 115,000 Australians remain in the Middle East with no clear evacuation plan.",
+      "source": "Ironclad Daily Brief",
+      "source_id": "SRC-013-C06",
+      "confidence": "reported",
+      "category": "policy"
+    },
+    {
+      "fact": "Oil majors (Mobil, BP, Ampol) have stopped selling on the wholesale market and are holding product for their own retail stations.",
+      "source": "Wholesale Fuel Trader Account",
+      "source_id": "SRC-003-C12",
+      "confidence": "reported",
+      "category": "refining"
+    },
+    {
+      "fact": "Independent wholesalers who supply regional Australia and farms can only buy on the spot wholesale market and have no term supply guarantees.",
+      "source": "Wholesale Fuel Trader Account",
+      "source_id": "SRC-003-C13",
+      "confidence": "reported",
+      "category": "supply"
+    }
+  ],
+
+  "expert_assessments": [
+    {
+      "speaker": "David Leaney",
+      "affiliation": "ANU",
+      "position": "Even if the war ends tomorrow, it will take another two months before the global supply chain is running smoothly again; Australia's 30-36 day reserve is inadequate and rationing (e.g., 80-litre per customer limit) should be considered.",
+      "source": "ABC News Daily",
+      "source_id": "SRC-001-C14, SRC-001-C15"
+    },
+    {
+      "speaker": "David Byrne",
+      "affiliation": "University of Melbourne",
+      "position": "Fuel markets exhibit 'rockets and feathers' pricing where prices rise rapidly but fall slowly, allowing companies with market power to capture wider margins; price transparency schemes (FuelWatch, Fuel Check) can backfire by enabling coordinated pricing.",
+      "source": "ABC News Daily",
+      "source_id": "SRC-002-C05, SRC-002-C09"
+    },
+    {
+      "speaker": "Anonymous wholesale fuel trader",
+      "affiliation": "Australian fuel importer",
+      "position": "US SPR releases are useless for Australia/Asia because Asian refineries need medium sour crude while US SPR releases light sweet crude; crude type mismatch means US strategic reserve is not accessible to Australia; MOPS premium has skyrocketed; regional export bans from Thailand and China are compounding supply constraints.",
+      "source": "ZeroHedge / Fast Eddy",
+      "source_id": "SRC-003-C05, SRC-003-C06, SRC-003-C08"
+    },
+    {
+      "speaker": "Arnaud Bertrand",
+      "affiliation": "Market analyst",
+      "position": "Infrastructure destruction will take at least a decade to recover from; the world's energy picture is probably changed forever; from a global energy supply perspective, we're deep into worst-case scenario territory.",
+      "source": "X/Twitter",
+      "source_id": "SRC-005-C02, SRC-005-C13"
+    },
+    {
+      "speaker": "Balaji Srinivasan",
+      "affiliation": "Tech investor",
+      "position": "Expect indefinite, long-term, ongoing disruptions to everything out of the Middle East; the antebellum status quo is unlikely to return; fertilizer and chemical precursor shortages are almost a certainty; energy independence from the Middle East is now a security imperative.",
+      "source": "X/Twitter",
+      "source_id": "SRC-006-C03, SRC-006-C08, SRC-006-C06"
+    },
+    {
+      "speaker": "Darren Lim",
+      "affiliation": "ANU Crawford School",
+      "position": "Despite tactical military success (2/3 of Iran's missile launchers destroyed), probability of converting tactical gains into durable strategic outcomes is low; non-proliferation incentive structure has been inverted — Iran is attacked precisely because it did NOT have nuclear weapons; Iran could acquire nuclear weapons within 18 months if it pursues them.",
+      "source": "Australia in the World Podcast",
+      "source_id": "SRC-010-C02, SRC-010-C09, SRC-010-C10"
+    },
+    {
+      "speaker": "Lowy Institute",
+      "affiliation": "Think tank",
+      "position": "Australia's fuel insecurity was entirely predictable and comprehensively predicted through multiple inquiries and analyses; Australia's power is 'just holding steady' rather than growing; market-based solutions do not age well when it comes to national security.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-008-C01, SRC-023-C02, SRC-008-C07"
+    },
+    {
+      "speaker": "Engineers Australia",
+      "affiliation": "Professional body",
+      "position": "Liquid fuel in transit to Australia through geopolitical hotspots is not fuel security, it is wishful thinking.",
+      "source": "2014-15 Senate inquiry testimony",
+      "source_id": "SRC-008-C03"
+    },
+    {
+      "speaker": "AEMO (Australian Energy Market Operator)",
+      "affiliation": "Government market operator",
+      "position": "All scenarios identify the need for new supply investments to maintain supply adequacy; peak day gas shortfalls forecast from 2028 in southern Australia; structural annual supply gaps from 2029.",
+      "source": "Gas Statement of Opportunities",
+      "source_id": "SRC-025-C03, SRC-025-C01"
+    },
+    {
+      "speaker": "Australian Government (Future Gas Strategy)",
+      "affiliation": "Department of Industry, Science and Resources",
+      "position": "Australia is committed to meeting our long-term LNG export contracts and will remain a reliable and trusted trade partner; however, no conflict scenario is analysed in the strategy.",
+      "source": "Future Gas Strategy",
+      "source_id": "SRC-026-C01, SRC-026-C05"
+    },
+    {
+      "speaker": "IEA",
+      "affiliation": "International Energy Agency",
+      "position": "This is assessed as the largest oil supply disruption in history.",
+      "source": "IEA assessment",
+      "source_id": "SRC-013-C01"
+    },
+    {
+      "speaker": "The Kobeissi Letter",
+      "affiliation": "Market analyst",
+      "position": "As SPR reserves become depleted, WTI prices will converge upward toward Brent and Oman prices, eliminating the US shielding effect; at current acceleration rates, Oman crude prices of $200+ per barrel are plausible within weeks absent conflict resolution.",
+      "source": "X/Twitter",
+      "source_id": "SRC-004-C17, SRC-004-C19"
+    },
+    {
+      "speaker": "Trump (White House statement)",
+      "affiliation": "US Government",
+      "position": "The United States knew nothing about Israel's attack on South Pars Gas Field.",
+      "source": "White House statement",
+      "source_id": "SRC-005-C12"
+    },
+    {
+      "speaker": "Winston Peters",
+      "affiliation": "New Zealand Foreign Minister",
+      "position": "Australia and New Zealand should have kept refining capacity online and were too cocky about world circumstances.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-008-C11"
+    },
+    {
+      "speaker": "Australia Institute",
+      "affiliation": "Independent public policy think tank",
+      "position": "Fuel security has decreased over the last decade; previous government approaches have focused on supply-side issues, rarely demand-side solutions.",
+      "source": "Over a Barrel: Addressing Australia's Liquid Fuel Security",
+      "source_id": "SRC-021-C04"
+    },
+    {
+      "speaker": "Shell Pearl GTL (reference)",
+      "affiliation": "LNG/GTL technology",
+      "position": "Converts 1.6 billion cubic feet per day of natural gas into 140,000 barrels per day of fuel at $33 billion cost and 4-year build timeline — providing a costed, specific solution pathway for Australian fuel independence.",
+      "source": "Lowy Institute",
+      "source_id": "SRC-009-C12, SRC-009-C13"
+    },
+    {
+      "speaker": "Jeroen Blokland",
+      "affiliation": "Portfolio Manager",
+      "position": "Brent oil increases spike fertilizer prices through natural gas feedstock costs, pushing up global food prices; that is NOT a small price to pay.",
+      "source": "X/Twitter",
+      "source_id": "SRC-007-C02"
+    },
+    {
+      "speaker": "QatarEnergy",
+      "affiliation": "Qatar's national energy company",
+      "position": "Ras Laffan Industrial City has been the subject of missile attacks (confirmed primary source).",
+      "source": "QatarEnergy official statement",
+      "source_id": "SRC-005-C11"
+    }
+  ],
+
+  "historical_parallels": [
+    {
+      "event": "1973 Arab Oil Embargo (Yom Kippur War)",
+      "date": "October 1973 - March 1974",
+      "trigger": "Egypt and Syria attacked Israel; OAPEC imposed embargo in response",
+      "price_impact": "Oil prices increased from $3.00/bbl (Sept 1973) to $11.65/bbl (Dec 1973) — ~290-300% increase",
+      "duration": "6 months embargo; supply restored following political negotiation",
+      "key_facts": [
+        "OPEC controlled the embargo decision and could lift it",
+        "No physical infrastructure destroyed — supply was withheld by policy decision",
+        "Triggered steepest economic contraction since Great Depression and stagflation",
+        "US FTC estimated 500,000 job losses and $10-20 billion GNP loss"
+      ],
+      "australia_impact": "Australia had 6-8 operational refineries in 1973, providing domestic resilience; imported oil faced higher costs but refining capacity meant some independence",
+      "parallel_to_current": "Both are Middle East energy crises; both trigger global economic shock; both drive policy responses (energy independence, strategic reserves, new sources)",
+      "different_from_current": "1973 was a supply-withholding decision by sovereign states (reversible by policy change); 2026 is physical infrastructure destruction on both sides of a shared field (irreversible without multi-year rebuild); 2026 involves TWO commodities (oil AND gas) simultaneously; Australia had refining capacity in 1973, today has 90% import dependency",
+      "source": "Ironclad historical research"
+    },
+    {
+      "event": "1979 Iranian Revolution Oil Shock",
+      "date": "February 1979 - 1986 (recovery period)",
+      "trigger": "Shah's overthrow in Iran; Iran-Iraq War (1980-88) followed",
+      "price_impact": "Oil prices increased from $15.85/bbl (April 1979) to $39.50/bbl (Dec 1979) — ~150% increase; reached highest real oil price until March 3, 2008",
+      "duration": "1979 shock lasted 12+ months; secondary shocks from Iran-Iraq War throughout 1980s; OPEC market share collapse took years to resolve",
+      "key_facts": [
+        "Iran's oil production fell from 6M bpd to 1.5M bpd (75% reduction)",
+        "Created global stagflation and severe recessions in industrialised nations",
+        "By 1986, OPEC market share had fallen from 50% (1979) to 29% (1985) as non-OPEC production rose",
+        "Japanese manufacturers surpassed Detroit's auto production within a year of 1979, gaining market share from 9% to 21%"
+      ],
+      "australia_impact": "Australia still had refining capacity; faced higher import costs but was less import-dependent than today; energy transition and nuclear power investment considered",
+      "parallel_to_current": "Both involve major Middle East producer taken offline; both cause global stagflation; both drive structural market shifts; 1979 reached real price record that 2026 is now exceeding on trajectory",
+      "different_from_current": "1979 was supply reduction (Iran production cut); 2026 is supply closure (Hormuz) PLUS infrastructure destruction (South Pars/Ras Laffan); 1979 allowed gradual recovery; 2026's infrastructure destruction means decade-long recovery; no OPEC market share collapse this time (Hormuz closure is not OPEC action)",
+      "source": "Ironclad historical research"
+    },
+    {
+      "event": "1990 Gulf War (Iraq invasion of Kuwait)",
+      "date": "August 1990 - March 1991",
+      "trigger": "Iraq invaded Kuwait on August 2, 1990; rapid military response by US-led coalition",
+      "price_impact": "Oil prices increased from $17/bbl (July 1990) to $46/bbl (October 1990 peak) — ~170% increase",
+      "duration": "9 months crisis; shortest duration of the four major post-WW2 oil shocks due to rapid military resolution",
+      "key_facts": [
+        "Crisis was less severe than 1973 or 1979 due to its shorter duration and rapid military resolution",
+        "Federal Reserve chose NOT to raise interest rates during the 1990 crisis, supporting the economy",
+        "Contributed to early 1990s recession but less severe than 1973 or 1979",
+        "US orchestrated military and diplomatic coalition response"
+      ],
+      "australia_impact": "Australia benefited from rapid resolution; energy security concerns less acute than 1973/1979; refining capacity still largely intact",
+      "parallel_to_current": "Both involve Persian Gulf supply disruption; both trigger rapid price response; both require military/political resolution",
+      "different_from_current": "1990 was shortest crisis due to US-orchestrated coalition and rapid military success; 2026 has no clear path to rapid resolution (Israel struck unilaterally, Iran retaliated unilaterally, US coordination broken); 1990 had clear political agreement on ceasefire path; 2026 has no diplomatic off-ramp; 1990 Fed supported economy; 2026 RBA heading toward rate hikes due to higher inflation exposure",
+      "source": "Ironclad historical research"
+    },
+    {
+      "event": "2020 COVID-19 Oil Crash",
+      "date": "March - April 2020 (acute phase); recovery 2020-2021",
+      "trigger": "COVID-19 demand destruction and OPEC+ alliance collapse on March 6, 2020",
+      "price_impact": "Oil prices fell from ~$60/bbl to 17-year low of $20.48 WTI (March 18, 2020); WTI futures briefly hit -$37/bbl (April 20, 2020) — first negative price in history",
+      "duration": "Acute crash: 6-8 weeks; full recovery to $60+: 18+ months (by mid-2021)",
+      "key_facts": [
+        "Caused US stock market crash (Dow -7.8% on Black Monday March 9)",
+        "104 oil tankers arrived at US shores to offload oil (Cushing storage at 81% capacity)",
+        "~10% of global oil production became uneconomic at Brent $25/bbl",
+        "Demand-destruction crisis (opposite of supply-shock crises)"
+      ],
+      "australia_impact": "Australia benefited initially from low fuel prices; minimal fuel supply risk (demand-driven, not supply-driven crisis); energy transition accelerated by cheap renewable power relative to fossil fuels",
+      "parallel_to_current": "Both cause extreme price volatility and market instability; both create financial/storage crises; 2020 showed demand can destroy market in weeks",
+      "different_from_current": "2020 was demand-side collapse; 2026 is supply-side spike (opposite direction); 2020 crashed below production cost (deflationary shock); 2026 is inflationary shock; 2020 was temporary demand destruction; 2026's South Pars/Ras Laffan destruction is structural for a decade; 2020 Australia had excess fuel; 2026 Australia has inadequate reserves",
+      "source": "Ironclad historical research"
+    }
+  ],
+
+  "policy_gaps": [
+    {
+      "gap": "IEA 90-day stockholding standard non-compliance (decade-long)",
+      "evidence": "Australia has held only 30-52 days of reserves for over a decade despite being an IEA member; only IEA member consistently non-compliant",
+      "consequence": "Australia's fuel supply is exhausted within 30-36 days of import disruption; inadequate to maintain the 2-month supply chain normalisation period following war resolution",
+      "recommended_action": "Build reserves to 90-day standard; prioritize refined product storage (not just crude); establish dedicated strategic reserve funding mechanism to prevent under-investment",
+      "source_id": "SRC-003-C02, SRC-009-C05"
+    },
+    {
+      "gap": "Refinery closure decisions made under 'stable global supply' assumption",
+      "evidence": "Australia closed 6 of 8 refineries (2010-2021) based on assumption that Asian import supply was reliable and cheaper than domestic production",
+      "consequence": "Domestic refining capacity at 230,000 bpd (23% of demand); cannot surge production during crisis; dependent on Asian refineries in crisis zone; refineries remaining are petrol-heavy, not diesel/jet fuel-heavy",
+      "recommended_action": "Reverse closure of key refineries or support investment in new domestic capacity; prioritize diesel and jet fuel refining over petrol; support capital investment in plants capable of processing Australian crude + imported condensate",
+      "source_id": "SRC-019-C01, SRC-021-C03"
+    },
+    {
+      "gap": "Wrong product mix: refineries configured for petrol, not diesel/jet fuel",
+      "evidence": "Remaining Australian refineries are petrol-heavy; but during supply crisis, diesel (transport, mining, agriculture) and jet fuel (aviation) face worst shortages and highest prices",
+      "consequence": "Australia can only produce 23% of demand, and that 23% is the wrong fuel type for crisis mitigation; strategic reserves and domestic production do not address the diesel/jet fuel shortage",
+      "recommended_action": "Reorient refinery investment toward diesel and aviation fuel; establish strategic reserve composition that matches actual demand (heavy weighting to diesel, secondary to jet fuel, tertiary to petrol)",
+      "source_id": "SRC-021-C04, SRC-003-C11"
+    },
+    {
+      "gap": "No conflict scenario in Future Gas Strategy",
+      "evidence": "Australian Government's Future Gas Strategy (2024) is calibrated for orderly net zero transition; contains no scenario analysis for conflict-driven supply disruption; 'energy security' objective framed around market stability, not war",
+      "consequence": "Government policy commits to honouring LNG export contracts even as: (1) domestic gas supply gaps are forecast from 2028-2029, and (2) Qatar LNG infrastructure is destroyed (decade-long supply reduction), creating competing demand for Australian LNG from desperate Asian customers",
+      "recommended_action": "Revise Future Gas Strategy to include high-impact, low-probability conflict scenario; establish conflict-triggered policy flexibility for LNG export prioritisation vs. domestic supply commitment; pre-negotiate force majeure provisions with LNG customers",
+      "source_id": "SRC-026-C05, SRC-025-C01"
+    },
+    {
+      "gap": "US SPR access agreement illusory (3-week voyage, wrong crude type, no guarantee)",
+      "evidence": "Australia negotiated access to US Strategic Petroleum Reserve in emergency; but US light sweet crude takes 3 weeks to reach Australia; Asian refineries are configured for medium sour crude (incompatible with US SPR); SPR is being drawn down 41% and will be exhausted within weeks at current rates",
+      "consequence": "US SPR is not usable for Australia in acute crisis (wrong crude type, too slow to deliver, being depleted); Australia cannot rely on US SPR as a backstop",
+      "recommended_action": "Establish direct term contracts with alternative suppliers (Singapore, South Korea, India refineries) for crisis supply; negotiate pre-positioned emergency crude stocks compatible with Australian refinery configurations; develop regional Asia-Pacific emergency supply protocol independent of US SPR",
+      "source_id": "SRC-003-C05, SRC-003-C06, SRC-021-C05"
+    },
+    {
+      "gap": "Export commitment vs. domestic supply tension (AEMO gaps from 2028)",
+      "evidence": "AEMO forecasts domestic gas supply gaps from 2028-2029; Government Future Gas Strategy commits to honouring LNG export contracts; Iran war has destroyed Qatar's Ras Laffan (20% of global LNG), creating desperate demand for Australian LNG at premium prices; no framework exists to manage this tension",
+      "consequence": "Australia faces pressure to redirect LNG from export to domestic market to address forecast supply gaps; doing so would breach long-term contracts and damage Australia's reputation as reliable partner",
+      "recommended_action": "Establish explicit policy framework for conflict-triggered rebalancing of LNG allocation; pre-negotiate contract flexibility with LNG customers; accelerate domestic gas supply development (Beetaloo Basin, renewable hydrogen); invest in import LNG terminals to diversify supply sources",
+      "source_id": "SRC-025-C01, SRC-026-C01"
+    },
+    {
+      "gap": "No rationing framework pre-positioned",
+      "evidence": "Australia has no formal rationing scheme ready to deploy; government considers 80-litre per customer purchase limits as ad hoc response; no binding legal framework, distribution mechanism, exemption process, or enforcement strategy pre-developed",
+      "consequence": "In fuel shortage, government must improvise rationing policy in real time; delays and inconsistencies reduce effectiveness; regional Australia and essential services (mining, agriculture, transport) face disruption",
+      "recommended_action": "Develop comprehensive rationing framework pre-positioned and ready for deployment (legal authority, distribution systems, priority access for essential services, interstate coordination); conduct mock rationing exercise; establish clear activation triggers",
+      "source_id": "SRC-001-C15"
+    },
+    {
+      "gap": "Storage economics not solved by market: government must fund",
+      "evidence": "Refined product storage is expensive and capital-intensive; commercial operators will not voluntarily build large-scale storage because it is not economically rational in peacetime; Australia's liquid fuel storage capacity is therefore undersized relative to crisis needs",
+      "consequence": "Market alone cannot solve fuel storage problem; government strategic reserve investment is the only path to 90-day standard compliance; this requires government funding and long-term commitment, not market-based solutions",
+      "recommended_action": "Establish dedicated government-funded strategic liquid fuel reserve program with 90-day target; develop onshore and offshore storage infrastructure; fund through fuel excise or dedicated levy to ensure stable, long-term funding; establish governance framework independent of political electoral cycles",
+      "source_id": "SRC-003-C03, SRC-008-C08"
+    }
+  ],
+
+  "scenario_branches": [
+    {
+      "name": "Scenario A: Near-term Resolution (2-3 months)",
+      "trigger_condition": "Cease-fire agreement reached within 2-3 months; Hormuz closure lifted; mine-clearing operations begin; shipping resumes; sanctions relief for Iran negotiated as part of agreement",
+      "oil_price_range": "Oman FOB $140-160/bbl (decline from $167 as physical fears ease but remain elevated); WTI $85-95/bbl (US shielding via remaining SPR); global benchmark Brent $100-110/bbl",
+      "duration": "War phase: 2-3 months | Supply chain normalisation: 2 months post-ceasefire | Total timeline: 4-5 months to pre-war pricing",
+      "australia_impact": "Fuel prices stabilise at $1.80-2.00/L (elevated from pre-war $1.50-1.60 baseline); pumps remain open; rationing avoided; domestic supply adequacy restored by 5-month mark; inflation spike contained to 1-1.5% (manageable for RBA); AUD recovers as geopolitical risk premium declines; mining and agriculture sector resilience intact",
+      "indicators_to_watch": [
+        "Ceasefire announcement or credible diplomatic signal",
+        "Hormuz shipping activity resumption",
+        "Mine-clearing force deployment",
+        "Oil futures curves: near-term (May-June) trading at discount to current spot (contango = supply restoration expected)",
+        "Oman FOB price decline of >$20/bbl in single week",
+        "Brent/WTI spread compression back below 10%",
+        "US SPR drawdown halts (no further releases needed)"
+      ]
+    },
+    {
+      "name": "Scenario B: Prolonged War (3-6 months + SPR exhaustion)",
+      "trigger_condition": "No ceasefire agreement through April-May; US SPR exhaustion forces strategic reserve releases to halt; WTI prices converge toward Brent then Oman; mine clearing indefinitely delayed; secondary strikes on Saudi/UAE infrastructure threaten regional stability; Iran pursues nuclear weapons program (18-month timeline begins)",
+      "oil_price_range": "Oman FOB $180-200+/bbl (converging upward as SPR depleted); WTI $140-160/bbl (convergence toward Brent/Oman as SPR reserves vanish); Brent $150-170/bbl; global headlines focus on $150/bbl WTI, masking Australia's $200/bbl effective cost",
+      "duration": "War phase: 4-6 months | Extended supply disruption: 6-12 months | Partial recovery begins: 12+ months",
+      "australia_impact": "Fuel prices reach $2.20-2.50/L; strategic reserves completely exhausted by week 12-16 of war; rationing enforced (80L per vehicle per week mandatory allocation); regional fuel supply chains collapse; mining diesel availability drops to 70-80% of requirements (production curtailment); agriculture sector faces critical input shortage; Airlines reduce flights; transport sector demand destruction begins; RBA forced into multiple rate hikes (inflation spike to 4.5-5%); AUD depreciates sharply (lower interest rates elsewhere, capital flight); recession risk elevated; unemployment spike from transport and mining contraction",
+      "indicators_to_watch": [
+        "SPR inventory declines past 34% capacity (current level); approaches 25-30%",
+        "No credible diplomatic off-ramp signals by May 31",
+        "WTI closes above $120/bbl consistently",
+        "Oman FOB reaches $190+/bbl",
+        "Regional power outages in Australia during peak fuel-demand periods (coal mining curtailment)",
+        "Fuel queue formation at pump stations (demand rationing begins informally)",
+        "Government announces formal rationing framework activation",
+        "Iran announces nuclear weapons program resumption",
+        "RBA rate hike cycle accelerates (>2 increases in 60 days)",
+        "AUD/USD breaks below 0.63"
+      ]
+    },
+    {
+      "name": "Scenario C: Infrastructure Escalation ($200+ Oman FOB)",
+      "trigger_condition": "Conflict expands geographically: further Israeli strikes on Saudi Aramco facilities in Yanbu or Ras Tanura; Iranian strikes on UAE terminals or Saudi production fields; Qatar becomes fully collateral (Ras Laffan not recoverable in 5+ years rather than decade); global coalition deteriorates; non-proliferation framework collapses and multiple regional actors pursue nuclear programs",
+      "oil_price_range": "Oman FOB $200-250/bbl (physical crude supply collapse); WTI $180-220/bbl (SPR-dependent constraint removed); Brent $200-230/bbl; gas prices spike another 50-100% as physical LNG supply risks widen; fertilizer prices double again",
+      "duration": "Acute crisis: 6-12 months | Extended disruption: 18-24+ months | recovery timeline: 3-5 years minimum",
+      "australia_impact": "Fuel prices reach $2.80-3.50/L; transport fuel becomes rationed commodity (20-30L per vehicle per week hard allocation); mining sector production collapses 40-60% (fuel unavailable at any price); agriculture sector faces existential threat (diesel unavailable for planting season); airline sector contracts 50%+ (fuel cost spike + demand destruction); electricity generation increasingly strained (coal mining disruption); inflation spike to 5-6%+; RBA forced into sustained rate hike cycle (5%+ cash rate); AUD depreciates 15-25% (lower real interest rates, capital flight); recession becomes depression risk; unemployment spike to 8-10%+; social unrest from fuel rationing and cost-of-living crisis; government forced into significant fiscal intervention (subsidies, price caps); political pressure for debt-financed relief spending",
+      "indicators_to_watch": [
+        "Major infrastructure strike on Saudi Aramco (Yanbu, Ras Tanura, Ghawar fields)",
+        "Iranian strike on UAE oil or LNG terminal",
+        "Brent crude >$200/bbl",
+        "Global stock markets decline >20% in correction (SPX below 5,600)",
+        "Credit spreads widen >200bps (recession signal)",
+        "Australia CPI inflation >5.5%",
+        "RBA cash rate >5.5%",
+        "AUD/USD below 0.60",
+        "Fuel rationing extended to critical-services-only (non-essential travel prohibited)",
+        "Major mining company announces production suspension",
+        "Iran formally announces nuclear weapons program",
+        "Regional war expands (Saudi-Iran direct military engagement, Yemen Houthis intensify attacks)",
+        "Global financial institution stress (bank stability concerns emerge)"
+      ]
+    }
+  ],
+
+  "structural_differences_from_history": [
+    {
+      "factor": "US shale independence creates three-tier price structure (never happened before)",
+      "historical_baseline": "In 1973, 1979, and 1990, oil crises created global price spikes that affected all regions similarly, with modest regional variations. Global benchmarks (Brent, WTI) moved in tandem with spreads <5-10%.",
+      "current_reality": "In 2026, US shale independence means WTI (US oil) is insulated from Middle East disruption at $97/bbl, while Brent (global benchmark) trades at $112/bbl (+13%), and Oman FOB (physical crude for Asia) trades at $167/bbl (+72%). The world now operates three distinct oil markets: US domestic ($97), European/global ($112), and Asian/Australian physical delivery ($167).",
+      "significance": "This three-tier structure has profound asymmetric impacts: the US inflation shock is 3.2-3.5% (per Kobeissi model at $110 WTI); Australia's inflation shock is equivalent to $167-180 WTI world, or 4.3-4.5%. Australia reaches 'worst-case scenario' inflation before the US does, creating differential policy pressures. The US can sustain price discipline through Fed policy; Australia cannot, forcing RBA into rate hikes even as Fed may hold. This breaks the historical pattern where all industrial economies faced synchronised crises."
+    },
+    {
+      "factor": "Physical infrastructure destroyed, not just supply restricted (South Pars/Ras Laffan vs. embargo)",
+      "historical_baseline": "1973 embargo: OPEC imposed supply restriction by policy decision; supply could be restored by reversing the policy decision. 1979 Iranian Revolution: Iran's production was offline due to political upheaval but fields could theoretically be brought back online with restored government. No physical facilities were destroyed.",
+      "current_reality": "2026: Israel struck South Pars gas field (Iran side); Iran retaliated by striking Ras Laffan LNG facility (Qatar side). Both are physical infrastructure destruction on both sides of a shared reservoir. Ras Laffan cost $70 billion to build and will take at least a decade to recover. South Pars production infrastructure is similarly destroyed. The world's largest natural gas field (90% untapped) will have largely inaccessible reserves for years, not months.",
+      "significance": "This creates two distinct recovery timelines: Oil (Hormuz closure) recovers in 2-3 months if war ends; Gas (South Pars/Ras Laffan) requires decade-long rebuild. Previous crises had a single recovery timeline. This bifurcation means global energy markets face a decade-long LNG supply deficit regardless of when the oil disruption ends. Australia's LNG exporters face multi-year windfall (Qatar offline). But Australia's fuel import crisis (oil) ends in 2-3 months while gas crisis extends indefinitely — Australia faces asymmetric commodity shocks with opposite time horizons."
+    },
+    {
+      "factor": "Non-proliferation incentive structure inverted",
+      "historical_baseline": "Since the Nuclear Non-Proliferation Treaty (1968), the strategic logic has been: countries WITH nuclear weapons are constrained by mutually assured destruction; countries WITHOUT nuclear weapons face stronger pressure not to acquire them. The system created (weak) incentives against proliferation.",
+      "current_reality": "In 2026, Iran is attacked precisely because it does NOT have nuclear weapons. Israel and US coordinate (to the extent they do) on the assumption that Iran is defenseless without nuclear capability. The logical Iranian response is: 'We should have pursued nuclear weapons.' Iran can acquire nuclear weapons within 18 months if it pursues them now (Lim). The war has inverted the non-proliferation incentive structure — demonstrated nuclear weapons are the only credible deterrent to air strikes.",
+      "significance": "This opens a proliferation cascade: if Iran pursues nuclear weapons, Saudi Arabia and UAE will accelerate programs. Turkey, Egypt, and other regional actors will reconsider. This transforms the regional strategic landscape from a single (covert) nuclear power (Israel) to a multi-nuclear Middle East within 3-5 years. The global non-proliferation regime, already under stress from North Korea and others, collapses further. This is a structural shift in global security architecture, not just a regional one."
+    },
+    {
+      "factor": "SPR systems exist now (didn't in 1973) but are being depleted",
+      "historical_baseline": "In 1973, oil crises were managed through demand destruction (rationing, price controls, voluntary conservation). No strategic reserves existed. Supply disruptions directly constrained consumer nations with no buffer.",
+      "current_reality": "SPR systems have been built since the 1973 crisis specifically to provide a shock absorber. US SPR (700M barrels), IEA coordinated reserves (400M+ barrels), China strategic reserves, Japan strategic reserves all exist. But in 2026, the US SPR is being drawn down at 41% and will be exhausted within weeks at current rates. IEA coordinated releases are one-time only. The reserves that were meant to smooth 2-3 month disruptions are being consumed by a 4-6 month+ crisis.",
+      "significance": "This means the SPR firewall that protected Western economies through 1990 and 2008 is collapsing in real-time. Once SPR is exhausted, WTI converges to Brent/Oman prices and the US loses its price insulation. The US will experience the same inflation shock as Australia and Europe within 2-3 months. This accelerates global recession risk because the US cannot sustain demand through the crisis the way it did in 1990. The 'shock absorber' mechanism is wearing out."
+    },
+    {
+      "factor": "Unilateral Israeli action broke US coordination on escalation",
+      "historical_baseline": "In 1990 Gulf War, the US orchestrated the military and diplomatic response through a coalition framework. In previous Middle East crises, great power coordination (US-USSR, later US-China) set escalation boundaries. Alliance discipline was the norm.",
+      "current_reality": "Israel struck South Pars unilaterally without US knowledge or approval. Trump: 'The United States knew nothing about this particular attack.' Iran retaliated by striking Qatar (a US treaty ally hosting 10,000 US personnel at Al Udeid Air Base). The US is now trapped in a chain of escalation it didn't initiate and can't easily control. Darren Lim (ANU): 'US-Israel coordination has broken down.'",
+      "significance": "This breaks the historical pattern where a great power (US) could manage escalation dynamics. In 2026, an ally took unilateral action that triggers an adversary response that entangles the great power without its consent. The US cannot easily de-escalate a conflict where it wasn't in the decision loop. This removes the escalation-control mechanism that operated in 1990, 1973, and other crises. Escalation dynamics are now partially outside great power control, increasing the risk of a prolonged conflict."
+    },
+    {
+      "factor": "Climate transition has already begun (more substitution capacity than 1973/1979)",
+      "historical_baseline": "In 1973 and 1979, there was no alternative to oil for transport and electricity. Oil was fully substitutable across all uses. The only response was demand destruction or rationing.",
+      "current_reality": "In 2026, renewable energy infrastructure already exists. Electric vehicles, solar power, wind power, nuclear plants all provide alternatives to fossil fuels that didn't exist in 1973/1979. Balaji Srinivasan notes that climate advocates were right on the dependency problem even if wrong on timelines — and now the energy transition has a forcing function. The transition is accelerating across Europe, US, China, Australia due to war-driven cost structures.",
+      "significance": "This means the 2026 crisis triggers faster structural economic change than previous crises. Instead of rationing and suffering through for 2-3 years (as 1973-76), countries can shift to alternatives within 3-5 years. This reduces the 'crisis depth' relative to 1973/1979 but creates massive capital reallocation pressure. Industrial policy and government support for energy transition accelerates. Stranded fossil fuel assets and workers face faster transition pressure. This is less economically damaging than 1973 (structural alternatives exist) but more socially disruptive (faster change)."
+    },
+    {
+      "factor": "Australia's 90% import dependency vs. having domestic refining in 1973",
+      "historical_baseline": "In 1973, Australia had 6-8 operational refineries that met ~70-80% of domestic demand. Australia was more resilient to supply disruption because domestic production could surge. Import dependency was lower.",
+      "current_reality": "In 2026, Australia is 91% import-dependent (FY2021 data). Only 2 refineries remain; domestic refining meets 23% of demand. 70% of all fuel consumed is imported as refined product, not crude. Australia is more vulnerable to supply disruption than in 1973 despite the same crisis trigger (Middle East energy disruption). This is a structural deterioration, not just a cyclical vulnerability.",
+      "significance": "Australia in 2026 faces a 1973-scale crisis but with far lower resilience. Previous crisis response (domestic refining surge, import diversification via multiple suppliers) is not available now. Australia's policy options are narrower: rationing, severe demand destruction, or rapid policy shift (GTL plants, LNG diversion, emergency refinery investment). This amplifies the policy constraint and urgency relative to 1973. Australia cannot 'wait out' this crisis as comfortably as it did in 1973 because the cushion of domestic capacity has eroded."
+    }
+  ],
+
+  "australia_dual_position": {
+    "loser_dimensions": [
+      "Liquid fuel imports (petrol, diesel, jet fuel): Australia depends on 91% imports; Hormuz closure and Asian refinery supply disruption means fuel prices spike from $1.50-1.60/L to $2.30+/L and availability tightens",
+      "Inflation spike: Australian inflation heading to 4-5%+ (mid-to-high range) due to fuel cost pass-through; this is 0.5-1.5% higher than US inflation because Australia pays Oman FOB prices ($167/bbl equivalent) vs. US WTI prices ($97/bbl)",
+      "Rationing risk: Australia's 30-36 day fuel reserve means rationing becomes likely in months 2-3 if the war extends beyond 8-10 weeks; rationing disrupts transport, mining, agriculture, and consumer sectors",
+      "RBA forced to hike: Unlike the US Fed which may hold rates as WTI stays suppressed below $120/bbl, the RBA faces structural higher inflation and may be forced into rate hike cycle even as global recession risk rises",
+      "Mining sector disruption: 83% of coal mining runs on diesel; fuel shortage directly constrains Australia's primary electricity and export revenue source",
+      "Agriculture sector vulnerability: Diesel for farm machinery, pumps, and transportation; fertilizer prices spike due to energy inputs; rural regions face acute supply shortages (regional wholesalers have no term supply guarantees)",
+      "Regional fuel distribution collapse: Regional wholesalers have zero leverage with majors (Mobil, BP, Ampol) who have withdrawn from wholesale market and are holding product for retail stations; regional Australia faces fuel queue formation and supply outages"
+    ],
+    "winner_dimensions": [
+      "LNG exports: Australia is the world's largest LNG exporter (Woodside, Santos, INPEX projects); Qatar's Ras Laffan destroyed (20% of global supply offline for decade); Australian LNG is now the marginal supply source for desperate Asian customers (Japan, South Korea, Taiwan, China) at premium prices; Woodside and Santos face multi-year revenue windfall",
+      "LNG price elevation: Global LNG prices have doubled; Australian LNG price contracts are linked to oil prices and regional benchmarks; if Oman FOB stays at $167/bbl, Australian LNG export revenues are elevated for years (Qatar offline for decade = structural market share gain)",
+      "Strategic LNG market share shift: With Qatar offline, Australia and Australia-like suppliers (PNG, Timor-Leste potentially) become more critical to global energy security; Australia's negotiating position with LNG customers improves; long-term contracts are more valuable now",
+      "Coal export surge: As global economies revert to coal (LNG too expensive, renewables insufficient), Australian coal exports surge; coal mining companies benefit; coal royalties to state and federal governments increase",
+      "Energy security premium: Australia will be perceived as more energy-secure (LNG exporters, coal exporters) relative to energy-dependent economies; investment risk premium on Australian assets may decline relative to Asia",
+      "Commodity price inflation: Australian export commodity prices (LNG, coal, iron ore as fuel component) rise; terms of trade improve for Australia relative to manufactured goods importers"
+    ],
+    "policy_tension": "Australia faces a fundamental contradiction: it is simultaneously a structural energy WINNER (LNG exporter benefiting from Qatar destruction) and a structural energy LOSER (fuel importer facing price spike and rationing risk). The revenue windfall from LNG (private sector benefit to Woodside/Santos shareholders and government royalties) cannot easily be redirected to offset the cost shock to transport, mining, agriculture, and consumers. The government commits to honouring LNG export contracts (Future Gas Strategy) even as domestic fuel shortage and future gas supply gaps (2028+) argue for LNG diversion to domestic markets. The policy choice is stark: maximise export revenue (status quo commitment) or sacrifice export revenue to stabilise domestic supply (alternative path). This tension cannot be resolved without breaking either the LNG export commitment or accepting domestic supply instability. The winners (LNG companies, shareholders, export-dependent royalty revenues) are not the same as the losers (fuel consumers, transport sector, mining sector facing diesel shortage). This creates distributional conflict where aggregate economic benefit (LNG windfall) does not translate to broad-based relief."
+  }
+}
